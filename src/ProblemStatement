@@ -1,0 +1,13 @@
+Develop a java application to implement currency converter (Dollar to INR, EURO to INR, Yen to
+INR and vice versa), distance converter (meter to KM, miles to KM and vice versa) , time
+converter (hours to minutes, seconds and vice versa) using packages.
+Create a package converterlibrary
+         -> Create a class CurrencyConverter and define methods for dollarToINR, 
+           eUROToINR, yenToINR and vice versa.
+         -> Create a class DistanceConverter and define methods for meterToKM, 
+            milesToKM and vice versa
+         -> Create a class TimeConverter and define methods hoursToMinutes, 
+             hoursToSeconds and vice versa
+Create a package converterapp
+         -> Create a class Calculation1 use the conversion functions
+            and display the results.
