@@ -22,7 +22,8 @@ public class CurrencyConverter {
 	public static double INRtoEURO(double INR)
 	{
 	double EURO;
-	
+	   EURO=INR/77.39;
+	return EURO;
 	}
 	public static double yentoINR(double yen)
 	{
