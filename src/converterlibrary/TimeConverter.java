@@ -25,6 +25,10 @@ public class TimeConverter {
 		hours=seconds/3600;
 		return hours;
 	}
+	public static double hourstominuites(double value1) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
 
 
