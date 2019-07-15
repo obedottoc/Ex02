@@ -24,7 +24,7 @@ public class currencyconverter {
 	public static double INRtoEURO (double INR)
 	{
 		double EURO;
-		 	EURO=INR*77.39;
+		 	EURO=INR/77.39;
 		return EURO; 	
 	}
 }
