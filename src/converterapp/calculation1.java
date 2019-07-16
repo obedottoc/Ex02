@@ -1,3 +1,7 @@
+//*created by Akhshy Ganesh B
+// currency converter , time converter, distance converter
+// G.Mail : akhshyganeshb@gmail.com
+
 package converterapp;
 
 import java.util.Scanner;
