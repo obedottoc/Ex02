@@ -12,7 +12,7 @@ public class CurrencyConverter {
 	
 	public static double inrtodollar(double inr)
 	{double dollar;
-	dolllar=(inr/68.52)+(inr%68.52);
+	dollar=(inr/68.52)+(inr%68.52);
 	return dollar;
 	}
 	
@@ -39,9 +39,5 @@ public class CurrencyConverter {
 	yen=(inr/0.63)+(inr%0.63);
 	return yen;
 	}
-	public static double metertokm (double meter)
-	{double km;
-	km=(meter/1000)+(meter%1000);
-	return km;
-	}
+	
 }
