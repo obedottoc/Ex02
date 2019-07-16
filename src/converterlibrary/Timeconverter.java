@@ -1,4 +1,10 @@
 package converterlibrary;
+/***
+ * 
+ * @author nikhil
+ * to create a timeconverter
+ * nikhilkumarreddybtech@gmail.com
+ */
  public class Timeconverter{
 
 public static double Hour_To_Minute(double Hour)

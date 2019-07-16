@@ -1,9 +1,11 @@
-package converterlibrary;
 /****
  * 
  * @author nikhil
- *
+ * to create a currencyconverter
+ * nikhilkumarreddybtech@gmail.com
+ * 
  */
+package converterlibrary;
 public class currencyconverter {
 
 public static double Dollar_TO_Inr(double Dollar)
