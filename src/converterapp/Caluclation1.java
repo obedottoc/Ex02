@@ -1,3 +1,8 @@
+/**
+ * authour @rohith
+ */
+
+
 package converterapp;
 
 
@@ -54,7 +59,6 @@ value1=sc.nextDouble();
 value2=currencyconveter.Euro_To_Inr(value1);
 System.out.printf("%.2f Euro is equal to %.2f INR .\n", value1,value2);
 break;
-
 case 4:
 System.out.print("Enter the amount:");
 value1=sc.nextDouble();
