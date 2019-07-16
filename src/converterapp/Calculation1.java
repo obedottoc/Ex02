@@ -22,10 +22,10 @@ public class Calculation1 {
 			System.out.println("8. Kilometer to Meter conversion");
 			System.out.println("9. Miless to Kilometer conversion");
 			System.out.println("10. Kilometer to Miless conversion");
-			System.out.println("11. Min to Hours conversion");
-			System.out.println("12. Hours to Min conversion");
-			System.out.println("13. Sec to Hours conversion");
-			System.out.println("14. Hours to Sec conversion");			
+			System.out.println("11. Hours to Mins conversion");
+			System.out.println("12. Mins to Hours conversion");
+			System.out.println("13. Hours to Sec conversion");
+			System.out.println("14. Sec to Hours conversion");			
 			System.out.println("15. Exit");
 			System.out.print("Enter your choice:");
 			
