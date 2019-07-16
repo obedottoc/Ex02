@@ -1,3 +1,10 @@
+/**
+ * to convert doller to inr,euro to inr,yen to inr and vice-versa
+ * authour rohith
+ * arohitharohi@gmail.com
+ */
+
+
 package Converterlibrary;
 
 public class currencyconveter {

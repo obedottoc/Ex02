@@ -1,3 +1,9 @@
+/**
+ * to convert hour to minutes and second to minute and vice-versa
+ * authour rohith
+ * arohitharohi@gmail.com
+ */
+
 package Converterlibrary;
 
 public class timeconverter {

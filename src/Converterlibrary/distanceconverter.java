@@ -1,3 +1,9 @@
+/**
+ * to convert meter to kilometer and mile to kilometer  and vice-versa
+ * author rohith
+ * arohitharohi@gmail.com
+ */
+
 package Converterlibrary;
 
 public class distanceconverter {
