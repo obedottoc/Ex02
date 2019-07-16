@@ -1,8 +1,11 @@
-package coverterapp;
-	import java.util.Scanner;
 /*****
+ * @author vijaykumarkaranam100@gmail.com
  * to create a converter application
  */
+package coverterapp;
+	import java.util.Scanner;
+
+
 	import converterlibrary.currency_converter;
 	import converterlibrary.DistanceConverter;
 	import converterlibrary.TimeConverter;

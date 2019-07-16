@@ -1,11 +1,9 @@
-package converterlibrary;
 /*****
- * 
- * @author vijay
- * 
- * to create time converter
- *
+ * @author vijaykumarkaranam100@gmail.com
+ * to create a time converter
  */
+package converterlibrary;
+
 public class TimeConverter {
 public static double Hour_To_Minute(double Hour)
 {
