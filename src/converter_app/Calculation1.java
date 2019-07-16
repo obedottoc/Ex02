@@ -1,4 +1,7 @@
 package converter_app;
+/****
+ * to create a converter application
+ */
 import java.util.Scanner;
 
 import converter_library.CurrencyConverter;

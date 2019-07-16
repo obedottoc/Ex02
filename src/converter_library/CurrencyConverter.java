@@ -1,5 +1,9 @@
 package converter_library;
-
+/***
+ * 
+ * @author mahesh
+ * to crate a currency converter
+ */
 public class CurrencyConverter {
 	public static double Dollar_TO_Inr(double Dollar)
 	{
