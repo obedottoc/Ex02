@@ -79,7 +79,7 @@ public class Calculation1 {
 			case 7:
 				System.out.print("Enter number of meters to convert to kilometer:");
 				value1=sc.nextDouble();
-				value2=DistanceConverter.metertokilomerer(value1);
+				value2=DistanceConverter.metertokilometer(value1);
 				System.out.printf("%.2f meter is equal to %.2f kilometer.\n", value1,value2);
 				break;
 			case 8:
@@ -89,27 +89,27 @@ public class Calculation1 {
 				System.out.printf("%.2f kilmeter is equal to %.2f meter.\n", value1,value2);
 				break;
 			case 9:
-				System.out.print("Enter number of miles to convert to kilomerer:");
-				value1=sc.nextDouble();
-				value2=DistanceConverter.milestokilomerer(value1);
-				System.out.printf("%.2f miles(s) is equal to %.2f kilometer.\n", value1,value2);
-				break;
-			case 10:
 				System.out.print("Enter number of kilometer to convert to miles:");
 				value1=sc.nextDouble();
 				value2=DistanceConverter.kilometertomiles(value1);
 				System.out.printf("%.2f kilometer is equal to %.2f miles.\n", value1,value2);
 				break;
-			case 11:
-				System.out.print("Enter number of hours to convert to minute:");
+			case 10:
+				System.out.print("Enter number of miles to convert to kilometer:");
 				value1=sc.nextDouble();
-				value2=TimeConverter.hourstominute(value1);
-				System.out.printf("%.2f hour(s) is equal to %.2f minute.\n", value1,value2);
+				value2=DistanceConverter.milestokilometer(value1);
+				System.out.printf("%.2f mile(s) is equal to %.2f kilometer.\n", value1,value2);
+				break;
+			case 11:
+				System.out.print("Enter number of minutes to convert to hours:");
+				value1=sc.nextDouble();
+				value2=TimeConverter.minutestohours(value1);
+				System.out.printf("%.2f minute(s) is equal to %.2f hour.\n", value1,value2);
 				break;
 			case 12:
 				System.out.print("Enter number of minute to convert to hours:");
 				value1=sc.nextDouble();
-				value2=TimeConverter.mintuetohours(value1);
+				value2=TimeConverter.minutestohours(value1);
 				System.out.printf("%.2f   minute(s) is equal to %.2f hours.\n", value1,value2);
 				break;
 			case 13:
@@ -128,7 +128,7 @@ public class Calculation1 {
 				System.out.print("Please enter a valid number !!!");
 			}
 			
-			if(option==5)
+			if(option==15)
 			{		
 				break;
 			}
