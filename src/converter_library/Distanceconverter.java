@@ -1,7 +1,7 @@
 package converter_library;
 /***
  * 
- * @author mahesh
+ * @author sumanth
  *to create distance converter
  */
 public class Distanceconverter {

@@ -1,7 +1,7 @@
 package converter_library;
 /*****
  * 
- * @author mahesh
+ * @author sumanth
  * to create a time converter
  */
 public class Timeconverter {

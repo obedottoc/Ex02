@@ -1,7 +1,7 @@
 package converter_library;
 /***
  * 
- * @author mahesh
+ * @author sumanth
  * to crate a currency converter
  */
 public class Currencyconverter {
