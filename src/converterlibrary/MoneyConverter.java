@@ -1,43 +1,45 @@
 package converterlibrary;
-public class MoneyConverter {
 
-	public static double dollarToinr(double dollar)
+public class MoneyConverter  {
+	
+	public static double DollartoInr(double Dollar)
 	{
-		double inr;
-		inr=dollar*68.56;
-		return inr;
+		double Inr;
+			Inr=Dollar*68.56;
+		return Inr;
 	}
-	public static double inrTodollar(double inr)
+	
+	public static double InrtoDollar(double Inr)
 	{
-		double dollar;
-		dollar=inr/68.56;
-		return dollar;
+		double Dollar;
+			Dollar=Inr/68.56;
+		return Dollar;
 	}
-	public static double euroToinr(double euro)
+
+	public static double EurotoInr(double Euro)
 	{
-		double inr;
-		inr=euro*17.39;
-		return inr;
+		double Inr;
+			Inr=Euro*77.39;
+		return Inr;
 	}
-	public static double inrToeuro(double inr)
+	
+	public static double InrtoEuro(double Inr)
 	{
-		double euro;
-		euro=inr/17.39;
-		return euro;
+		double Euro;
+			Euro=Inr/77.39;
+		return Euro;
 	}
-	public static double yenToinr(double yen)
+	
+	public static double YentoInr(double Yen)
 	{
-		double inr;
-		inr=yen*0.62;
-		return inr;
+		double Inr;
+			Inr=Yen*0.62;
+		return Inr;		
 	}
-	public static double inrToyen(double inr)
+	public static double InrtoYen(double Inr)
 	{
-		double yen;
-		yen=inr/0.62;
-		return yen;
+		double Yen;
+			Yen=Inr/0.62;
+		return Yen;
 	}
 }
-
-
-
