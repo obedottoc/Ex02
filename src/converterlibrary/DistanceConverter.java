@@ -1,31 +1,30 @@
 package converterlibrary;
 
 public class DistanceConverter {
-
-	public static double meterTokm(double meter)
+	public static double MetertoKm(double Meter)
 	{
-		double km;
-		km=meter*1000;
-		return km;
+		double Km;
+			Km=Meter/1000;
+		return Km;
 	}
-	public static double kmTometer(double km)
+	
+	public static double KmtoMeter(double Km)
 	{
-		double meter;
-		meter=km/1000;
-		return meter;
+		double Meter;
+			Meter=Km*1000;
+		return Meter;
 	}
-	public static double milesTokm(double miles)
+	public static double MilestoKm(double Miles)
 	{
-		double km;
-		km=miles*1.609;
-		return km;
+		double Km;
+			Km=Miles*1.609;
+		return Km;
+		
 	}
-	public static double kmTomiles(double km)
+	public static double KmtoMiles(double Km)
 	{
-		double miles;
-		miles=km/1.609;
-		return miles;
+		double Miles;
+			Miles=Km/1.609;
+		return Miles;
 	}
 }
-
-

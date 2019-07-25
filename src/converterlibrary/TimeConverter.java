@@ -1,30 +1,29 @@
 package converterlibrary;
+
 public class TimeConverter {
+	public static double HourstoMinutes(double Minutes)
+	{
+		double Hours;
+			Hours=Minutes*60.0;
+		return Hours;
+	}
+	public static double MinutestoHours(double Hours)
+	{
+		double Minutes;
+			Minutes=Hours/60.0;
+		return Minutes;
+	}
+	public static double HourstoSeconds(double Seconds)
+	{
+		double Hours;
+			Hours=Seconds*3600;
+		return Hours;
+	}
+	public static double SecondstoHours(double Hours)
+	{
+		double Seconds;
+			Seconds=Hours/3600;
+		return Seconds;
+	}
 
-	public static double hoursTomins(double hours)
-	{
-		double mins;
-		mins=hours*60.0;
-		return mins;
-	}
-	public static double minsTohours(double mins)
-	{
-		double hours;
-		hours=mins/160;
-		return hours;
-	}
-	public static double hoursTosec(double hours)
-	{
-		double sec;
-		sec=hours*3600;
-		return sec;
-	}
-	public static double secTohours(double sec)
-	{
-		double hours;
-		hours=sec/3600;
-		return hours;
-	}
 }
-
-
