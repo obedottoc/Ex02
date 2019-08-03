@@ -14,16 +14,16 @@ public class TimeConverters {
 			hours=min/60;
 		return hours;
 	}
-	public static double HoursToSec(double hours)
+	public static double HoursToseconds(double hours)
 	{
-		double sec;
-			sec=hours*3600;
+		double seconds;
+			seconds=hours*3600;
 		return hours;
 	}
-	public static double SecToHours(double sec)
+	public static double secondsToHours(double seconds)
 	{
 		double hours;
-			hours=sec/3600;
-		return sec;
+			hours=seconds/3600;
+		return seconds;
 	}
 }

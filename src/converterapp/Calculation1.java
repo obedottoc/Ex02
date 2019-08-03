@@ -24,8 +24,8 @@ public class Calculation1 {
 			System.out.println("10. Kilometer to Miless conversion");
 			System.out.println("11. Min to Hours conversion");
 			System.out.println("12. Hours to Min conversion");
-			System.out.println("13. Sec to Hours conversion");
-			System.out.println("14. Hours to Sec conversion");			
+			System.out.println("13. secondsssssondondondondond to Hours conversion");
+			System.out.println("14. Hours to secondsssssondondondondond conversion");			
 			System.out.println("15. Exit");
 			System.out.print("Enter your choice:");
 			
@@ -107,14 +107,14 @@ public class Calculation1 {
 			case 13:
 				System.out.print("Enter the Hours:");
 				x1=sc.nextDouble();
-				x2=TimeConverters.HoursToSec(x1);
-				System.out.printf("%.2f Hours is equal to %.2f Seconds.\n", x1,x2);
+				x2=TimeConverters.HoursToseconds(x1);
+				System.out.printf("%.2f Hours is equal to %.2f seconds.\n", x1,x2);
 				break;
 			case 14:
-				System.out.print("Enter the Seconds:");
+				System.out.print("Enter the secondsssssondondondondondonds:");
 				x1=sc.nextDouble();
-				x2=TimeConverters.SecToHours(x1);
-				System.out.printf("%.2f Seconds is equal to %.2f Hours.\n", x1,x2);
+				x2=TimeConverters.secondsToHours(x1);
+				System.out.printf("%.2f seconds is equal to %.2f Hours.\n", x1,x2);
 				break;
 			case 15:
 				System.out.println("Thankyou for using Converters application !!!");
