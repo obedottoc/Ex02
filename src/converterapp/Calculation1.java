@@ -25,7 +25,7 @@ public class Calculation1 {
 		System.out.println("exit");
 		System.out.print("enter your choice");
 		option=sc.nextInt();
-		switch(option)
+		 switch(option)
 		{	case 1:
 				System.out.print("Enter Dollars:");
 				a=sc.nextDouble();

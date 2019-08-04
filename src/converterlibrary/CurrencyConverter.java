@@ -10,7 +10,7 @@ public class CurrencyConverter {
 	public static double INRTodollar(double INR)
 	{
 		double dollar;
-		dollar=(INR/68.520)+(INR%68.52);
+		dollar=(INR/68.52)+(INR%68.52);
 		return dollar;
 		
 	}

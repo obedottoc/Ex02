@@ -17,7 +17,7 @@ public class DistanceConverter {
 	public static double MilesToKM(double Miles)
 	{
 		double KM;
-		KM=1.6090*Miles;
+		KM=1.609*Miles;
 		return KM;
 	}
 	public static double KMToMiles(double KM)
