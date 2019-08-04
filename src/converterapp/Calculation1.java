@@ -27,7 +27,7 @@ public class Calculation1 {
 		option=sc.nextInt();
 		switch(option)
 		{	case 1:
-				System.out.print("Enter Dollars: ");
+				System.out.print("Enter Dollars:");
 				a=sc.nextDouble();
 				b=CurrencyConverter.dollarToINR(a);
 				System.out.printf("%.2f$=%.2fRs \n" , a,b);

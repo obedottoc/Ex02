@@ -1,6 +1,6 @@
 package converterlibrary;
 
-public class TimeConverter {
+public class TimeConverter{
 	public static double hoursTominutes(double hours)
 	{
 		double minutes;
