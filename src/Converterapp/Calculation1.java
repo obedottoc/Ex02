@@ -1,33 +1,42 @@
+/****
+ * program to represnt conversion 
+ * developed by
+ * mahesh k
+ */
+
+
+
+
 package Converterapp;
 import java.util.Scanner;
 
 import converterlibrary.*;
 
-public class Calculation1 {
-public static void main (String [] args) {
-double value1,value2;
-int option;
-Scanner sc=new Scanner(System.in);
-while (true)
-{
-System.out.println("1.dollar to INR conversion");
-System.out.println("2.INR to dollar conversion");
-System.out.println("3.eURO to INR conversion");
-System.out.println("4.INR to eURO conversion");
-System.out.println("5.yen to INR conversion");
-System.out.println("6.INR to yen conversion");
-System.out.println("7.meter yo KM conversion");
-System.out.println("8.KM to meter conversion");
-System.out.println("9.miles to KM conversion");
-System.out.println("10.KM to miles conversion");
-System.out.println("11.hours to minuites conversion");
-System.out.println("12.minuites to hours conversion");
-System.out.println("13.hours to Seconds conversion");
-System.out.println("14.Seconds to hours conversion");
-System.out.println("15.Exit");
-System.out.println("Enter your choice");
-option=sc.nextInt();
-switch (option)
+	public class Calculation1 {
+			public static void main (String [] args) {
+				double value1,value2;
+				int option;
+				Scanner sc=new Scanner(System.in);
+				while (true)	
+				{
+					System.out.println("1.dollar to INR conversion");
+					System.out.println("2.INR to dollar conversion");
+					System.out.println("3.eURO to INR conversion");
+					System.out.println("4.INR to eURO conversion");
+					System.out.println("5.yen to INR conversion");
+					System.out.println("6.INR to yen conversion");
+					System.out.println("7.meter yo KM conversion");
+					System.out.println("8.KM to meter conversion");
+					System.out.println("9.miles to KM conversion");
+					System.out.println("10.KM to miles conversion");
+					System.out.println("11.hours to minuites conversion");
+					System.out.println("12.minuites to hours conversion");
+					System.out.println("13.hours to Seconds conversion");
+					System.out.println("14.Seconds to hours conversion");
+					System.out.println("15.Exit");
+					System.out.println("Enter your choice");
+					option=sc.nextInt();
+					switch (option)
 {
 case 1:
 System.out.print("Enter currency in dollar");
