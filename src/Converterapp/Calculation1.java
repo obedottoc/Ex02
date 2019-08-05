@@ -1,10 +1,10 @@
 /**
 1 * Application for area and length conversion
  * 
- * developed by
- * obedotto@saveetha.ac.in
- * 
- * 
+ * developed by suriyakumar
+ * sksuri01@gmail.com
+ * 212217105057
+
  */
 package Converterapp;
 

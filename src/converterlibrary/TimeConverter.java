@@ -1,3 +1,11 @@
+/**
+1 * Application for area and length conversion
+ * 
+ * developed by suriyakumar
+ * sksuri01@gmail.com
+ * 212217105057
+
+ */
 package converterlibrary;
 public class TimeConverter {
 
