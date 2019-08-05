@@ -1,3 +1,8 @@
+/****
+ * Program for Distance Converter 
+ * @author Pavan Kalyan
+ *  npkr.nvrr@outlook.com
+ */
 package converterlibrary;
 import java.util.Scanner;
 public class DistanceConverter{

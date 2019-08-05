@@ -1,3 +1,8 @@
+/****
+ * Program for Calculation
+ * @author Pavan Kalyan
+ *  npkr.nvrr@outlook.com
+ */
 package converterapp;
 import java.util.*;
 import converterlibrary.*;

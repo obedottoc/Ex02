@@ -1,3 +1,8 @@
+/****
+ * Program for Currency Converter
+ * @author Pavan Kalyan
+ *  npkr.nvrr@outlook.com
+ */
 package converterlibrary;
 import java.util.*;
 public class CurrencyConverter{
