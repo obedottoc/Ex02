@@ -1,7 +1,7 @@
 /*****
  * Converter library 
  * developed by
- * N.pavithra.
+ * sandhiya.
  * sandhiyasandhiya123@gmail.com
  */
 

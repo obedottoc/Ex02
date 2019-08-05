@@ -1,8 +1,8 @@
 /**
  * Application for currency distance and time converter
  * 
- * developed by N.pavithra
- * npavithra1405@gmail.com
+ * developed by sandhiya
+ * sandhiyasandhiya123@gmail.com
  * 
  * 
  */
