@@ -1,3 +1,14 @@
+/****
+ * program to represent coversion of length,distance,currency
+ * developed by 
+ * mahesh k
+ */
+
+
+
+
+
+
 package converterlibrary;
 
 public class Currencyconverter {
