@@ -1,7 +1,7 @@
 /****
- * Program for Distance Converter 
- * @author Pavan Kalyan
- *  npkr.nvrr@outlook.com
+ * Program for Currency Converter
+ * @author RAJAMANICKAM A
+ *  rajapandidevi1997@gmail.com
  */
 package converterlibrary;
 import java.util.Scanner;

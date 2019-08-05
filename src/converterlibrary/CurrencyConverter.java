@@ -1,7 +1,7 @@
 /****
  * Program for Currency Converter
- * @author Pavan Kalyan
- *  npkr.nvrr@outlook.com
+ * @author RAJAMANICKAM A
+ *  rajapandidevi1997@gmail.com
  */
 package converterlibrary;
 import java.util.*;
