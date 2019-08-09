@@ -43,7 +43,7 @@ public class Calculation1 {
 				System.out.print("Enter currency in dollar:");
 				value1=sc.nextDouble();
 				value2=CurrencyConverter.dollarToINR(value1);
-				System.out.printf("%.2f square feet is equal to %.2f ground.\n", value1,value2);
+				System.out.printf("%.2f dollor is equal to %.2f INR.\n", value1,value2);
 				break;
 			case 2:
 				System.out.print("Enter currency in INR:");
