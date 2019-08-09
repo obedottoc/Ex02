@@ -1,6 +1,6 @@
 /*TO create a timeConverter class
  * developed by:-udaykanth67@gmail.com
- * M.uday kanth
+ * M.uday kanth,eee-B
  */
 package converterlibrary;
 import java.util.*;

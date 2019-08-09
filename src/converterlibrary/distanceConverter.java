@@ -1,6 +1,6 @@
-/*To create a class distanceConverter
+/**To create a class distanceConverter
  * developed by:-udaykanth67@gmail.com
- * M.uday kanth 
+ * M.uday kanth,eee-b
  */  
 package converterlibrary;
 import java.util.Scanner;

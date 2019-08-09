@@ -1,6 +1,6 @@
-/*To create a currentConverter class in converterlibrary package
+/**To create a currentConverter class in converterlibrary package
  * developed by:-udaykanth67@gmail.com
- * M.uday kanth
+ * M.uday kanth, eee-b
  */
 package converterlibrary;
 import java.util.*;

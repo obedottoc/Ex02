@@ -1,6 +1,6 @@
 /*To create a Calculation1 class
  * developed by:-udaykanth67@gmail.com
- * M.uday kanth
+ * M.uday kanth,eee-B
  */
 package converterapp;
 import java.util.*;
