@@ -8,8 +8,10 @@ public class Calculation1
 		double get1,get2;
 		int select;
 		Scanner x=new Scanner(System.in);
-		
+		do
 		{
+		
+
 		System.out.println("1.dollar-INR conversion");
 		System.out.println("2.INR-dollar conversion");
 		System.out.println("3.euro-INR conversion");
@@ -24,8 +26,8 @@ public class Calculation1
 		System.out.println("12.minutes-hours conversion");
 		System.out.println("13.hours-seconds conversion");
 		System.out.println("14.seconds-hours conversion");
-		System.out.println("ENTER THE REQUIRED CONVERSION OPTION ");	
-		}
+		System.out.println("ENTER THE REQUIRED CONVERSION OPTION ");
+		
 		select=x.nextInt();
 		if(select==1)
 		{
@@ -126,7 +128,8 @@ public class Calculation1
 			System.out.println("hours equals to :"+get2);
 		}
 	
-		
+		}while(select!=0);
+	
 	}	
 }
 
