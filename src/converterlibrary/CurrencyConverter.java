@@ -1,6 +1,6 @@
 /****
  * Program for Currency Converter
- * @author Pavan Kalyan
+* @author Pavan Kalyan
  *  npkr.nvrr@outlook.com
  */
 package converterlibrary;

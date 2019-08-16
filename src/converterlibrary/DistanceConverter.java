@@ -1,6 +1,6 @@
 /****
- * Program for Distance Converter 
- * @author Pavan Kalyan
+ * Program for Distance Converter
+* @author Pavan Kalyan
  *  npkr.nvrr@outlook.com
  */
 package converterlibrary;

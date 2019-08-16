@@ -1,5 +1,5 @@
 /****
- * Program for Calculation
+ * Program for Calculation Converter
  * @author Pavan Kalyan
  *  npkr.nvrr@outlook.com
  */
