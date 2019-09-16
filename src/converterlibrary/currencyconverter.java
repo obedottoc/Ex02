@@ -1,4 +1,4 @@
-package converterlibrary;s
+package converterlibrary;
 
 public class currencyconverter {
 	

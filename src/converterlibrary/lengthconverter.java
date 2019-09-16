@@ -1,4 +1,4 @@
-package converterlibrary;s
+package converterlibrary;
 
 public class lengthconverter {
 	public static double metertoKM(double meter)
