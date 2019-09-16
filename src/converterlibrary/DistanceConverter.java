@@ -24,6 +24,5 @@ public class DistanceConverter {
 	double miles;
 	miles=KM/1.609;
 	return miles;
-
 	}
 }
