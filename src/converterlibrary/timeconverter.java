@@ -1,4 +1,4 @@
-package converterlibrary;
+spackage converterlibrary;
 
 public class timeconverter {
 	public static double hourstominutes(double hours)
