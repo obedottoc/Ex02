@@ -1,3 +1,8 @@
+/***
+ * developed by lokesh j
+ * lokeshwarn2000@gmail.com
+ * exp2
+ */
 package convertorlibrary;
 
 public class CurrencyConvertor {
