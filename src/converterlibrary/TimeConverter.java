@@ -1,3 +1,6 @@
+/*created by: G. Sanjai Kumar
+ * email: gsanjaik@gmail.com
+ */
 package converterlibrary;
 
 public class TimeConverter {
