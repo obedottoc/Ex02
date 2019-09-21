@@ -1,9 +1,6 @@
-/***
- * To write a program for conversion of currency
- * created by Rositha V
- * rosithav1@gmail.com
- */
 package converterlibrary;
+
+
 
 public class CurrencyConverter {
 
