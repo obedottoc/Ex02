@@ -1,3 +1,9 @@
+//**created by roopesh
+//**1roopesh3@gmail.com
+//**This program is written to calcuate convertions
+
+
+
 package converterapp;
 import java.util.Scanner;
 import converterlibrary.*;

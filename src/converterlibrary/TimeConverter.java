@@ -1,6 +1,6 @@
-/***
- * created by roopesh
- */
+
+// * created by roopesh
+//** This program is written to convert time
 
 
 package converterlibrary;

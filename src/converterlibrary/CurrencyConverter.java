@@ -1,8 +1,7 @@
-/***
- * created by roopesh
- */
 
-
+ //** created by roopesh
+ //** this program is written to convert currency
+ 
 package converterlibrary;
 
 public class CurrencyConverter {
