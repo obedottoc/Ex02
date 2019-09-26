@@ -1,3 +1,9 @@
+/*
+ *Program to perform DistanceConverter 
+ *By Faizul
+ *faizulsmart10@gmail.com
+ */
+
 package converterlibrary;
 
 public class DistanceConverter { 
@@ -19,11 +25,6 @@ public class DistanceConverter {
 	return km;
 	}
 	
-	public static double metertokm (double meter)
-	{double km;
-	km=(meter/1000)+(meter%1000);
-	return km;
-	}
 	public static double kmtomiles (double km)
 	{double miles;
 	miles=(km/1.609)+(km%1.609);

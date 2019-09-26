@@ -1,3 +1,9 @@
+/*
+ *Program to perform TimeConverter 
+ *By Faizul
+ *faizulsmart10@gmail.com
+ */
+
 package converterlibrary;
 
 public class TimeConverter {

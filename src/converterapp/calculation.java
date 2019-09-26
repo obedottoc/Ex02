@@ -1,3 +1,8 @@
+/*
+ * Program to perform conversion
+ * By Faizul
+ * faizulsmart10@gmail.com
+ */
 package converterapp;
 
 import java.util.Scanner;

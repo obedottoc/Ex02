@@ -1,6 +1,12 @@
+/*
+ *Program to perform CurrencyConverter 
+ *By Faizul
+ *faizulsmart10@gmail.com
+ */
+
 package converterlibrary;
 
-import java.util.scanner;
+import java.util.Scanner;
 
 public class CurrencyConverter {
 	
