@@ -1,4 +1,8 @@
-package converterlibrary;
+
+/*created by kaarthikeyan
+ * email:gk81299@gmail.com
+ * 
+ */package converterlibrary;
 public class TimeConverter {
 	public static double hrsTomin(double hrs) 
 	{

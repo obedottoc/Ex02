@@ -1,3 +1,7 @@
+/*created by kaarthikeyan
+ * email:gk81299@gmail.com
+ * 
+ */
 package converterapps;
 import java.util.Scanner;
 import converterlibrary.CurrencyConveter;
