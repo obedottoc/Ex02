@@ -1,3 +1,9 @@
+
+/****
+ * Program for electricity bills
+ * devloped by Mari bhagavathi.T
+ * mari36mars@gmail.com
+ */
 package converterapp;
 
 import java.util.Scanner;
