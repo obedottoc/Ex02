@@ -2,7 +2,7 @@
  * Application for area and length conversion
  * 
  * developed by Mohan Raj c
- * cvmohanraj3 2gmail.com
+ * cvmohanraj3@gmail.com
  * 
  * 
  */
