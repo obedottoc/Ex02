@@ -1,7 +1,7 @@
-//**
- //* created by roopesh
- 
-//**this program is written to convert distance
+/**
+ * To create converter libraray;
+ * @author harsha
+ */
 package converterlibrary;
 
 public class DistanceConverter {

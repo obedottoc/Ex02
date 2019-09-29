@@ -1,9 +1,9 @@
-//**created by roopesh
-//**1roopesh3@gmail.com
-//**This program is written to calcuate convertions
-
-
-
+/**
+ * To create a converter app;
+ * @author harsha
+ * gmail:reddyharsha298@gmail.com
+ * 
+ */
 package converterapp;
 import java.util.Scanner;
 import converterlibrary.*;

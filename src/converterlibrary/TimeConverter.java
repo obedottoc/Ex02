@@ -1,6 +1,7 @@
-
-// * created by roopesh
-//** This program is written to convert time
+/**
+ * To create Time convereter
+ * @author harsha
+ */
 
 
 package converterlibrary;

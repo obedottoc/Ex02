@@ -1,6 +1,7 @@
-
- //** created by roopesh
- //** this program is written to convert currency
+/**
+ * To create a currency converter
+ * @author harsha
+ */
  
 package converterlibrary;
 
