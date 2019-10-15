@@ -35,21 +35,21 @@ import converterlibrary.TimeConverter;
 		option=sc.nextInt();
         switch(option) {
         case 1:
-	    System.out.print("Enter dollars:");
-		a=sc.nextDouble();
-		b=CurrencyConverter.dollartoinr(a);
-		System.out.printf("%2fdollars=%2frupees\n",a,b);
-		break;
+        		System.out.print("Enter dollars:");
+				a=sc.nextDouble();
+				b=CurrencyConverter.dollartoinr(a);
+				System.out.printf("%2fdollars=%2frupees\n",a,b);
+				break;
 		
 		case 2:
-			System.out.print("inr?");
+			    System.out.print("inr?");
 				a=sc.nextDouble();
 				b=CurrencyConverter.inrtodollar(a);
 				System.out.printf("%2finr=%2fdollars\n",a,b);
 				break;
 		
 		case 3:
-       		System.out.print("euro?");
+       		    System.out.print("euro?");
 				a=sc.nextDouble();
 				b=CurrencyConverter.eurotoinr(a);
 				System.out.printf("%2feuros=%2finr\n",a,b);
@@ -135,7 +135,7 @@ import converterlibrary.TimeConverter;
 		case 15:
 				break;
 				default:
-					System.out.println("please enter a valid number:");
+				System.out.println("please enter a valid number:");
 				
 					
 			}
